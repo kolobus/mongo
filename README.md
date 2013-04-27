@@ -11,5 +11,4 @@ DirectAdmin custom backup script hook for dumping users mongodb (same as usernam
 **Usage:**
 
 $ wget -O /usr/local/directadmin/scripts/custom/user_backup_pre.sh https://../user_backup_pre.sh
-
 $ chmod +x /usr/local/directadmin/scripts/custom/user_backup_pre.sh
