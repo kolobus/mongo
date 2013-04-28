@@ -4,7 +4,7 @@ MongoDB Tools - my small toolkit for mongo
 
 ## user_backup_pre.sh (mongodump)
 
-DirectAdmin custom backup script hook for dumping users mongo db (same as username) right before packing user.
+[DirectAdmin](http://directadmin.com) custom backup script hook for dumping users mongo db right before packing user.
 
 **Usage:**
 
